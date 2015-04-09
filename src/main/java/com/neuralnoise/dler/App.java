@@ -1,4 +1,4 @@
-package com.neuralnoise.owlaxioms;
+package com.neuralnoise.dler;
 
 import java.net.URI;
 import java.net.URISyntaxException;

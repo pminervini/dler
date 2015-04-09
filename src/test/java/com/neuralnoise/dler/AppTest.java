@@ -1,4 +1,4 @@
-package com.neuralnoise.owlaxioms;
+package com.neuralnoise.dler;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
